@@ -1,0 +1,9 @@
+body {text-align: center;}
+
+.banner {color: white; font-family: helvetica; background-image: url("../../resources/pics/background.png");}
+
+.banner h1 {font-size: 70px; font-weight: bold;}
+
+.banner ul {list-style: none;}
+
+.banner a {font-size: 18px; color: white; text-decoration: underline;}
