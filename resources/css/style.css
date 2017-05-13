@@ -1,9 +1,18 @@
-body {text-align: center;}
+body {text-align: center; font-family: helvetica;}
 
 .banner {color: white; font-family: helvetica; background-image: url("../../resources/pics/background.png");}
 
 .banner h1 {font-size: 70px; font-weight: bold;}
-
 .banner ul {list-style: none;}
-
 .banner a {font-size: 18px; color: white; text-decoration: underline;}
+
+.process h2 {font-size: 32px; font-weight: bold;}
+.process h3 {font-size: 23px; font-weight: bold;}
+.process p {font-size: 14px;}
+
+.design h2 {color: white; font-size: 32px; background-image: url("../../resources/pics/background.png");}
+.design h3 {font-size: 23px; font-weight: bold;}
+.design p {font-size: 14px}
+
+.footer {font-size: 11; color: white; background-color: dimgray; text-align: left;}
+.footer a {font-size: 18px; color: white; text-decoration: underline;}
